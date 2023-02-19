@@ -1,11 +1,14 @@
 {
   "expo": {
     "name": "situation-room",
-    "slug": "situation-room",
+    "slug": "situation-room-kt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-image-picker"
+    ],
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -24,10 +27,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.kt.situationroom"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b8cafaba-0d57-4b34-995a-7facd2fcb1e2"
+      }
+    },
+    "owner": "musaiyib"
   }
 }
