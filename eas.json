@@ -3,6 +3,9 @@
     "version": ">= 3.6.0"
   },
   "build": {
+    "release": {
+      "distribution": "store"
+    },
     "development": {
       "developmentClient": true,
       "distribution": "internal",
@@ -13,7 +16,12 @@
     "preview": {
       "distribution": "internal",
       "ios": {
+        "distribution": "internal",
         "resourceClass": "m1-medium"
+      },
+      "android": {
+        "distribution": "internal",
+        "buildType": "apk"
       }
     },
     "production": {

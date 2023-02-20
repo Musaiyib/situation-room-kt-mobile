@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "situationroom-kt",
+  "private_key_id": "925e8c533542ca98c505664d952bee739e15ec6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSU2xa/bP2yeiF\nj3owTlPwNrSg8fFXDpaaWmh3LvjByjUfQgCe4m9i0F+WypH4D7I4879Hm8yt4/B9\nnP3ZRE+3QZVrNWRfDIP018ze1AO503JVyzx2OGUcFXUbcWh2STTTmRtElm5vNiln\npEszWjKzGQoLQdjpGcXuF2yo/MLRfy66eqIIxJDauLh3fDWq8b/9mtiktruELvoI\n5n2CHU8coDukE5yDhVEZ22ryhUpUaM77KFczyaLhQ3Qn7QQAb1xbPV027ZOEVYd+\n5zfUhgz0N1wHVhIR2wOngmGa1OyBeuQe29SP2cobgiXy+Hcv/GyeSzfr3Ap5htkH\nJUg6Jgt7AgMBAAECggEAB/n1M6aVy1OpUbKHCiAS8krBIO7fZYv9iK9591k/pSy1\nJZ2O9BpK0RujwlALkfalE/axjCFBkI8W2noW2mOfZtFz6DKyZH4FqXCkEdeD1nrg\nxi18f8NGO7gtuI+/jociEpDLjDsZDQXqTuSFVujJT7sDMabmwJovkHGFclbI9euA\nRpkfj0vqJ8YpowCwCbzOKFcUMCwS2+OQGHoIVT6VIkHvOkKlPdRzUCIaIvxVf1ve\neXZlhYr7Z8AGQVhKOB84hrF/5h3yYURE8XvTdAh2bLDP4LZNCdFClUir0VNjADpo\nURaOsZHNLGm9tBO1zZBL/WCeXU1nlp6Q2aLpDHY+fQKBgQDOrXY3jSJKtop4gSt8\nvQ+jHo8nani2Dz/0Th4RtOgMhvoeIWiVO+osoDEtZ1fk1ksGFe9inkZk+X/co9C4\nKnd64LtHWol8b3EuicIzEHyKwECX+arkANWzdI3Sd6vnWrYO9YMxo/M+zcK2U9/2\nWAvB0quMYDnrwBdUbF+sTAXQHwKBgQC1PuYX1KK1F0uQh8JDKfG96dA2tZVoGO4F\nMHkJgIocy9FcvC7hREKZIRnmnZh9xWPqHwY46i1KiVK6tbHqIsEx2YaFiEZjT5r9\nbnqehOl69FmdJB7tIqnG05hvUjmoRhcX6WZpFX+pNKxm/+mchRiBZm8j1HRyD7y7\ncdYTycYpJQKBgFcCA5CjY9pcOrM8fdhHp3uec9m+Iw9SIDRzZolBxabwc/+XRPX+\ngTlEPy/EH+aAqJjpRxwXUb9UohV7CXVeu2oJjg4d+V9fcyCKci0ZNbUb9pWEUAMo\nrs6btNDz/HSrZZWqmg6d3NuFuAEWEmUc7+YrEHlKUVgESE4MScK5RoE1AoGAHIbQ\n2lFaZpxLBW2Ist+IL/b8EZBU+rRpyiFN+6PimROvWSQ5ULVYshdWp0iItsr5peDK\nLu0UwdWJUt/EJ/DebYUqOhwvz/O4lkjsPcT3pqWM8UG9KF+7TxMAvAy6DHUzr0zK\nFKIQnMYwmGmREFSWfc9skLwgs88sSmhpZGXurY0CgYA/3089G+v86rL0dMX4CZBo\nbHrABqJulERz/vQ2uaHhtrA9b1w2voNGTcx4HABLrOx4ic2ftF/S7ZwnVWy5dK6j\nEdGXv1D78Zasoaa5ZZaYQVSj/wTS7tVFP8y+tCW786hdEh3iLuHRogl5Bh52iCm5\nCvvGKwopSblz/E6BrkJi/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "situation-room-kt-132@situationroom-kt.iam.gserviceaccount.com",
+  "client_id": "106604974137829882408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/situation-room-kt-132%40situationroom-kt.iam.gserviceaccount.com"
+}

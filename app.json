@@ -1,14 +1,12 @@
 {
   "expo": {
-    "name": "situation-room",
+    "name": "situation-room KT",
     "slug": "situation-room-kt",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./src/assets/pdp-logo.png",
     "userInterfaceStyle": "light",
-    "plugins": [
-      "expo-image-picker"
-    ],
+    "plugins": ["expo-image-picker"],
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -17,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -28,9 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "permissions": [
-        "android.permission.RECORD_AUDIO"
-      ],
+      "permissions": ["android.permission.RECORD_AUDIO"],
       "package": "com.kt.situationroom"
     },
     "web": {
